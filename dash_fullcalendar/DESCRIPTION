@@ -1,0 +1,15 @@
+Package: dashFullcalendar
+Title: Dash port of FullCalendar React.js library
+Version: 0.0.1
+Description: Dash port of FullCalendar React.js library
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: MIT + file LICENSE
+URL: https://github.com/JAnderson419/dash-fullcalendar
+BugReports: https://github.com/JAnderson419/dash-fullcalendar/issues
+Encoding: UTF-8
+LazyData: true
+KeepSource: true
+Author: Jackson Anderson [aut]
+Maintainer: Jackson Anderson <jda4923@rit.edu>
